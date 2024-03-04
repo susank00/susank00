@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there! I'm Susan khatri, a passionate React developer and enthusiast about all things web development. I love crafting beautiful and user-friendly interfaces using modern technologies and best practices.
+👋 Hi there! I'm Susan khatri, a passionate React developer and cybersecurity enthusiast. I love crafting beautiful and user-friendly interfaces using modern technologies and best practices.
 
 
 ## 🌐 Socials:
