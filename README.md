@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there! I'm Susan khatri, a passionate React developer and cybersecurity enthusiast. I love crafting beautiful and user-friendly interfaces using modern technologies and best practices.
+👋 Hi there! I'm Susan Khatri, a developer with practical experience in quality assurance and cybersecurity. I've contributed to building and testing secure, high-quality software by combining development skills with thorough QA practices and penetration testing. I'm passionate about delivering reliable applications that perform well and stand up to real-world security challenges.
 
 
 ## 🌐 Socials:
